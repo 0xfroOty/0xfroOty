@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/0xfroOty/0xfroOty/main/gif.gif" width="500">
+<img src="https://raw.githubusercontent.com/0xfroOty/0xfroOty/main/gif_trim.gif" width="100%">
 </p>
 
 ```bash
